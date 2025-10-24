@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jollibee Manolo Fortich",
+        "lat": 8.367469936051815,
+        "lng": 124.86540373402592,
+        "img": "jollibee-chickenjoymeal.jpg",
+        "description": "Golden crispy Chickenjoy that brings joy in every bite."
+    },
+    {
+        "name": "Chintzy Cafe",
+        "lat": 8.36414186096398,
+        "lng": 124.8656094370264,
+        "img": "Milktea.jpg",
+        "description": "My favorite creamy milk tea, best enjoyed with good vibes at Chintzy’s."
+    },
+    {
+        "name": "Chooks-to-Go Manolo Fortich",
+        "lat": 8.365697829372147,
+        "lng": 124.86561351850433,
+        "img": "chicken.webp",
+        "description": "Famous for its roasted chicken that’s always ready to go — no sauce needed!"
+    }
+]
